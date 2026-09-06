@@ -5,11 +5,11 @@
 
 ## **About Me**
 
-**Computer Science graduate** with a strong interest in **data analytics, software engineering, and applied research**.
+**Computer Science graduate** with a strong interest in **data analytics, data science, software engineering, and applied research**.
 
 I enjoy solving real-world problems through data-driven analysis and software development, with experience in:
 
-- **Data Analytics & Research** — data analysis, statistical analysis, machine learning, and data visualization
+- **Data Analytics & Research** — data analysis, statistical analysis, data science, machine learning, and data visualization
 - **Software Engineering** — application development, system design, algorithms, databases, and the Software Development Life Cycle
 - **AI & LLMs** — LLM applications, prompt engineering, Retrieval-Augmented Generation (RAG), and AI-assisted development
 - **Web Development & UI/UX** — developing functional web applications and designing user-centered interfaces
